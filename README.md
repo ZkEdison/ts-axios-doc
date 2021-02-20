@@ -1,14 +1,11 @@
 # ts-axios-doc
 
+# 在线地址
+https://zkedison.github.io/ts-axios-doc/
+
 TypeScript 从零实现 axios 文档教材
 
 ## 启动电子书
-
-首先 clone 本项目：
-
-```bash
-git clone https://git.imooc.com/coding-330/ts-axios-doc.git
-```
 
 进入 `ts-axios-doc` 目录后安装项目依赖：
 
